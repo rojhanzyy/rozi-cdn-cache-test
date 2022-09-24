@@ -57,15 +57,13 @@
           v-bind:nucalDataModel="{'type':'NSW','isList':false,'dynamic':false,'structure':[{'type':'string','propName':'text','displayName':'Value'}]}"
           nucalScaleWidth="" nucalScaleHeight="" id="1c02157a-c61b-4aff-977b-53edbac85332"
           v-bind:style="{'color':'#000000','zIndex':9,'fontSize':'12.9855px','maxWidth':'','minWidth':'','fontStyle':'normal','marginTop':'0px','maxHeight':'','minHeight':'','textAlign':'left','fontFamily':'Roboto-Regular,Roboto','fontWeight':'normal','lineHeight':'0.8263499999999999','marginLeft':'0px','paddingTop':'0px','textShadow':'','visibility':'visible','marginRight':'0px','paddingLeft':'0px','marginBottom':'0px','paddingRight':'0px','paddingBottom':'0px','textDecoration':'underline'}"/>
-        <WLabel top="61.858190709046454%" left="47.06723891273248%"
-          text="Lorem ipsum dolor, sit amet consectetur adipisicing elit. Voluptatum illum voluptas, laudantium, in exercitationem recusandae aliquam."
-          v-bind:snapX="false" v-bind:snapY="false" theme="theme--light01" position="absolute" ncTypography="custom"
-          ncTooltipText=""
+        <WLabel top="61.858190709046454%" left="47.06723891273248%" text="Life is short" v-bind:snapX="false"
+          v-bind:snapY="false" theme="theme--light01" position="absolute" ncTypography="custom" ncTooltipText=""
           v-bind:nucalDataModel="{'type':'NSW','isList':false,'dynamic':false,'structure':[{'type':'string','propName':'text','displayName':'Value'}]}"
           nucalScaleWidth="" nucalScaleHeight="" id="adc9cf2b-83a2-4726-b6ce-de295f685fb8"
           v-bind:style="{'color':'#000000','width':'275.45px','height':'77.126px','zIndex':10,'fontSize':'14.756250000000001px','maxWidth':'','minWidth':'','fontStyle':'normal','marginTop':'0px','maxHeight':'','minHeight':'','textAlign':'left','fontFamily':'OpenSans-Light,Open Sans','fontWeight':'normal','lineHeight':'0.8263499999999999','marginLeft':'1.77075px','paddingTop':'0px','textShadow':'','visibility':'visible','marginRight':'0px','paddingLeft':'0px','marginBottom':'0px','paddingRight':'0px','paddingBottom':'0px','textDecoration':'none'}"/>
-        <WLabel top="53.789731051344745%" left="47.4964234620887%" text="Rozi" v-bind:snapX="false" v-bind:snapY="false"
-          theme="theme--light01" position="absolute" ncTypography="custom" ncTooltipText=""
+        <WLabel top="53.789731051344745%" left="47.4964234620887%" text="Rozi Building" v-bind:snapX="false"
+          v-bind:snapY="false" theme="theme--light01" position="absolute" ncTypography="custom" ncTooltipText=""
           v-bind:nucalDataModel="{'type':'NSW','isList':false,'dynamic':false,'structure':[{'type':'string','propName':'text','displayName':'Value'}]}"
           nucalScaleWidth="" nucalScaleHeight="" id="6fbaa3cf-c2ab-4e33-8306-bf2358cd4665"
           v-bind:style="{'color':'#000000','width':'133.79px','height':'25.184px','zIndex':14,'fontSize':'17.7075px','maxWidth':'','minWidth':'','fontStyle':'normal','marginTop':'0px','maxHeight':'','minHeight':'','textAlign':'left','fontFamily':'OpenSans-Bold,Open Sans','fontWeight':'normal','lineHeight':'0.8263499999999999','marginLeft':'0px','paddingTop':'0px','textShadow':'','visibility':'visible','marginRight':'0px','paddingLeft':'0px','marginBottom':'0px','paddingRight':'0px','paddingBottom':'0px','textDecoration':'none'}"/>
